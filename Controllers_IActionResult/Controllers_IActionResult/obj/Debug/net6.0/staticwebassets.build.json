@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "2mXG3Vul1X7L0+d/WyYIi5IGioHeh6dLIT+AkIjD+BY=",
+  "Source": "Controllers_IActionResult",
+  "BasePath": "_content/Controllers_IActionResult",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Controllers_IActionResult\\wwwroot",
+      "Source": "Controllers_IActionResult",
+      "ContentRoot": "D:\\aspnetcore\\Controllers_IActionResult\\Controllers_IActionResult\\wwwroot\\",
+      "BasePath": "_content/Controllers_IActionResult",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\aspnetcore\\Controllers_IActionResult\\Controllers_IActionResult\\wwwroot\\José-Elias-Tarraf-neto.pdf",
+      "SourceId": "Controllers_IActionResult",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\aspnetcore\\Controllers_IActionResult\\Controllers_IActionResult\\wwwroot\\",
+      "BasePath": "_content/Controllers_IActionResult",
+      "RelativePath": "José-Elias-Tarraf-neto.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\José-Elias-Tarraf-neto.pdf"
+    }
+  ]
+}

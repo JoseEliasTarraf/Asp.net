@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\aspnetcore\\Controllers_IActionResult\\Controllers_IActionResult\\wwwroot\\José-Elias-Tarraf-neto.pdf",
+      "PackagePath": "staticwebassets\\José-Elias-Tarraf-neto.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Controllers_IActionResult.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Controllers_IActionResult.props",
+      "PackagePath": "build\\Controllers_IActionResult.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Controllers_IActionResult.props",
+      "PackagePath": "buildMultiTargeting\\Controllers_IActionResult.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Controllers_IActionResult.props",
+      "PackagePath": "buildTransitive\\Controllers_IActionResult.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

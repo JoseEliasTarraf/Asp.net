@@ -1,0 +1,80 @@
+D:\aspnetcore\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\Controllers_IActionResult.csproj.AssemblyReference.cache
+D:\aspnetcore\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\Controllers_IActionResult.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspnetcore\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\Controllers_IActionResult.AssemblyInfoInputs.cache
+D:\aspnetcore\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\Controllers_IActionResult.AssemblyInfo.cs
+D:\aspnetcore\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\Controllers_IActionResult.csproj.CoreCompileInputs.cache
+D:\aspnetcore\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\Controllers_IActionResult.MvcApplicationPartsAssemblyInfo.cache
+D:\aspnetcore\Controllers_IActionResult\Controllers_IActionResult\bin\Debug\net6.0\appsettings.Development.json
+D:\aspnetcore\Controllers_IActionResult\Controllers_IActionResult\bin\Debug\net6.0\appsettings.json
+D:\aspnetcore\Controllers_IActionResult\Controllers_IActionResult\bin\Debug\net6.0\Controllers_IActionResult.exe
+D:\aspnetcore\Controllers_IActionResult\Controllers_IActionResult\bin\Debug\net6.0\Controllers_IActionResult.deps.json
+D:\aspnetcore\Controllers_IActionResult\Controllers_IActionResult\bin\Debug\net6.0\Controllers_IActionResult.runtimeconfig.json
+D:\aspnetcore\Controllers_IActionResult\Controllers_IActionResult\bin\Debug\net6.0\Controllers_IActionResult.dll
+D:\aspnetcore\Controllers_IActionResult\Controllers_IActionResult\bin\Debug\net6.0\Controllers_IActionResult.pdb
+D:\aspnetcore\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\staticwebassets\msbuild.Controllers_IActionResult.Microsoft.AspNetCore.StaticWebAssets.props
+D:\aspnetcore\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\staticwebassets\msbuild.build.Controllers_IActionResult.props
+D:\aspnetcore\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Controllers_IActionResult.props
+D:\aspnetcore\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Controllers_IActionResult.props
+D:\aspnetcore\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\staticwebassets.pack.json
+D:\aspnetcore\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\staticwebassets.build.json
+D:\aspnetcore\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\staticwebassets.development.json
+D:\aspnetcore\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\scopedcss\bundle\Controllers_IActionResult.styles.css
+D:\aspnetcore\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\Controllers_IActionResult.dll
+D:\aspnetcore\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\refint\Controllers_IActionResult.dll
+D:\aspnetcore\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\Controllers_IActionResult.pdb
+D:\aspnetcore\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\Controllers_IActionResult.genruntimeconfig.cache
+D:\aspnetcore\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\ref\Controllers_IActionResult.dll
+D:\aspnetcore\Controllers_IActionResult\Controllers_IActionResult\bin\Debug\net6.0\Controllers_IActionResult.staticwebassets.runtime.json
+C:\Users\neto_\OneDrive\Área de Trabalho\Controllers_IActionResult\Controllers_IActionResult\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\neto_\OneDrive\Área de Trabalho\Controllers_IActionResult\Controllers_IActionResult\bin\Debug\net6.0\appsettings.json
+C:\Users\neto_\OneDrive\Área de Trabalho\Controllers_IActionResult\Controllers_IActionResult\bin\Debug\net6.0\Controllers_IActionResult.staticwebassets.runtime.json
+C:\Users\neto_\OneDrive\Área de Trabalho\Controllers_IActionResult\Controllers_IActionResult\bin\Debug\net6.0\Controllers_IActionResult.exe
+C:\Users\neto_\OneDrive\Área de Trabalho\Controllers_IActionResult\Controllers_IActionResult\bin\Debug\net6.0\Controllers_IActionResult.deps.json
+C:\Users\neto_\OneDrive\Área de Trabalho\Controllers_IActionResult\Controllers_IActionResult\bin\Debug\net6.0\Controllers_IActionResult.runtimeconfig.json
+C:\Users\neto_\OneDrive\Área de Trabalho\Controllers_IActionResult\Controllers_IActionResult\bin\Debug\net6.0\Controllers_IActionResult.dll
+C:\Users\neto_\OneDrive\Área de Trabalho\Controllers_IActionResult\Controllers_IActionResult\bin\Debug\net6.0\Controllers_IActionResult.pdb
+C:\Users\neto_\OneDrive\Área de Trabalho\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\Controllers_IActionResult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neto_\OneDrive\Área de Trabalho\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\Controllers_IActionResult.AssemblyInfoInputs.cache
+C:\Users\neto_\OneDrive\Área de Trabalho\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\Controllers_IActionResult.AssemblyInfo.cs
+C:\Users\neto_\OneDrive\Área de Trabalho\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\Controllers_IActionResult.csproj.CoreCompileInputs.cache
+C:\Users\neto_\OneDrive\Área de Trabalho\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\Controllers_IActionResult.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\neto_\OneDrive\Área de Trabalho\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\staticwebassets\msbuild.Controllers_IActionResult.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\neto_\OneDrive\Área de Trabalho\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\staticwebassets\msbuild.build.Controllers_IActionResult.props
+C:\Users\neto_\OneDrive\Área de Trabalho\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Controllers_IActionResult.props
+C:\Users\neto_\OneDrive\Área de Trabalho\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Controllers_IActionResult.props
+C:\Users\neto_\OneDrive\Área de Trabalho\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\neto_\OneDrive\Área de Trabalho\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\neto_\OneDrive\Área de Trabalho\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\neto_\OneDrive\Área de Trabalho\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\scopedcss\bundle\Controllers_IActionResult.styles.css
+C:\Users\neto_\OneDrive\Área de Trabalho\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\Controllers_IActionResult.dll
+C:\Users\neto_\OneDrive\Área de Trabalho\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\refint\Controllers_IActionResult.dll
+C:\Users\neto_\OneDrive\Área de Trabalho\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\Controllers_IActionResult.pdb
+C:\Users\neto_\OneDrive\Área de Trabalho\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\Controllers_IActionResult.genruntimeconfig.cache
+C:\Users\neto_\OneDrive\Área de Trabalho\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\ref\Controllers_IActionResult.dll
+F:\Controllers_IActionResult\Controllers_IActionResult\bin\Debug\net6.0\appsettings.Development.json
+F:\Controllers_IActionResult\Controllers_IActionResult\bin\Debug\net6.0\appsettings.json
+F:\Controllers_IActionResult\Controllers_IActionResult\bin\Debug\net6.0\Controllers_IActionResult.staticwebassets.runtime.json
+F:\Controllers_IActionResult\Controllers_IActionResult\bin\Debug\net6.0\Controllers_IActionResult.exe
+F:\Controllers_IActionResult\Controllers_IActionResult\bin\Debug\net6.0\Controllers_IActionResult.deps.json
+F:\Controllers_IActionResult\Controllers_IActionResult\bin\Debug\net6.0\Controllers_IActionResult.runtimeconfig.json
+F:\Controllers_IActionResult\Controllers_IActionResult\bin\Debug\net6.0\Controllers_IActionResult.dll
+F:\Controllers_IActionResult\Controllers_IActionResult\bin\Debug\net6.0\Controllers_IActionResult.pdb
+F:\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\Controllers_IActionResult.csproj.AssemblyReference.cache
+F:\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\Controllers_IActionResult.GeneratedMSBuildEditorConfig.editorconfig
+F:\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\Controllers_IActionResult.AssemblyInfoInputs.cache
+F:\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\Controllers_IActionResult.AssemblyInfo.cs
+F:\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\Controllers_IActionResult.csproj.CoreCompileInputs.cache
+F:\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\Controllers_IActionResult.MvcApplicationPartsAssemblyInfo.cache
+F:\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\staticwebassets\msbuild.Controllers_IActionResult.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\staticwebassets\msbuild.build.Controllers_IActionResult.props
+F:\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Controllers_IActionResult.props
+F:\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Controllers_IActionResult.props
+F:\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\staticwebassets.build.json
+F:\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\staticwebassets.development.json
+F:\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\scopedcss\bundle\Controllers_IActionResult.styles.css
+F:\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\Controllers_IActionResult.dll
+F:\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\refint\Controllers_IActionResult.dll
+F:\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\Controllers_IActionResult.pdb
+F:\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\Controllers_IActionResult.genruntimeconfig.cache
+F:\Controllers_IActionResult\Controllers_IActionResult\obj\Debug\net6.0\ref\Controllers_IActionResult.dll
