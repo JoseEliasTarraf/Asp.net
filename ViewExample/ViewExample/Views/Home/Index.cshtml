@@ -1,0 +1,72 @@
+﻿@model IEnumerable<CityWeather>
+
+@{
+   string color = "";
+
+}
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <title>Weather</title>
+
+    <meta charset="utf-8" />
+
+    <link rel="stylesheet" href="~/StyleSheet.css" />
+
+</head>
+
+<body>
+
+    <div class="page-content">
+        <h3>Weather</h3>
+        @{
+            foreach (var tempo in Model)
+            {
+                if (tempo.Temperature < 44)
+
+                {
+                    color = "blue-back";
+
+                }
+                if (tempo.Temperature > 44 && tempo.Temperature < 74)
+                {
+
+                    color = "green-back";
+
+                }
+                if (tempo.Temperature > 74)
+                {
+
+                    color = "orange-back";
+
+                }
+                <div class="box float-left margin-left margin-top @color margin-bottom">
+
+                    <div class="float-left">
+
+                        <h4>@tempo.CityName</h4>
+
+                        <span class="font_small">@tempo.DateAndTime.ToString("MM/dd/yyyy HH:mm")</span><br>
+
+                        <span class="font_small"><a href="city-details/@tempo.CityUniqueCode">Detalhes</a></span>
+                    </div><br>
+
+                    <div class="">
+
+                        <h2>@tempo.Temperature ºC</h2>
+
+                    </div>
+
+                </div>
+
+            }
+
+        }
+    </div>
+</body>
+</html>
+
