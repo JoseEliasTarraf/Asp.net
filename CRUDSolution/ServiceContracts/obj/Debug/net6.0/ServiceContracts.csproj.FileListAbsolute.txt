@@ -1,0 +1,15 @@
+D:\aspnetcore\CRUDSolution\ServiceContracts\bin\Debug\net6.0\ServiceContracts.deps.json
+D:\aspnetcore\CRUDSolution\ServiceContracts\bin\Debug\net6.0\ServiceContracts.dll
+D:\aspnetcore\CRUDSolution\ServiceContracts\bin\Debug\net6.0\ServiceContracts.pdb
+D:\aspnetcore\CRUDSolution\ServiceContracts\bin\Debug\net6.0\Entities.dll
+D:\aspnetcore\CRUDSolution\ServiceContracts\bin\Debug\net6.0\Entities.pdb
+D:\aspnetcore\CRUDSolution\ServiceContracts\obj\Debug\net6.0\ServiceContracts.csproj.AssemblyReference.cache
+D:\aspnetcore\CRUDSolution\ServiceContracts\obj\Debug\net6.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspnetcore\CRUDSolution\ServiceContracts\obj\Debug\net6.0\ServiceContracts.AssemblyInfoInputs.cache
+D:\aspnetcore\CRUDSolution\ServiceContracts\obj\Debug\net6.0\ServiceContracts.AssemblyInfo.cs
+D:\aspnetcore\CRUDSolution\ServiceContracts\obj\Debug\net6.0\ServiceContracts.csproj.CoreCompileInputs.cache
+D:\aspnetcore\CRUDSolution\ServiceContracts\obj\Debug\net6.0\ServiceContracts.csproj.CopyComplete
+D:\aspnetcore\CRUDSolution\ServiceContracts\obj\Debug\net6.0\ServiceContracts.dll
+D:\aspnetcore\CRUDSolution\ServiceContracts\obj\Debug\net6.0\refint\ServiceContracts.dll
+D:\aspnetcore\CRUDSolution\ServiceContracts\obj\Debug\net6.0\ServiceContracts.pdb
+D:\aspnetcore\CRUDSolution\ServiceContracts\obj\Debug\net6.0\ref\ServiceContracts.dll
