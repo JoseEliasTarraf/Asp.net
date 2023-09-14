@@ -2,7 +2,9 @@
 {
     /// <summary>
     /// Domain Model for Country
-    /// </summary>
+    /// </summary> 
+
+    //Modelo de Dominio
     public class Country
     {
         public Guid CountryID {get; set;}

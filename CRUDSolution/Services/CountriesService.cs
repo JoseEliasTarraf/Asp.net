@@ -6,6 +6,7 @@ using System.Data;
 
 namespace Services
 {
+    //Classe com todos os Methods referentes ao Country
     public class CountriesService : ICountriesService
     {
         private readonly List<Country> _countries;
@@ -41,6 +42,26 @@ namespace Services
             _countries.Add(country);
 
             return country.ToCoutryResponse();
+        }
+
+        public CountryResponse? GetCountryById(Guid? id)
+        {
+            if(id == null)
+            {
+                return null;
+            }
+            Country? country = _countries.FirstOrDefault(c=> c.CountryID == id);
+
+            if(country == null)
+            {
+                return null;
+            }
+            return country.ToCoutryResponse();
+        }
+
+        public List<CountryResponse> GetCountryList()
+        {
+          return _countries.Select(c=> c.ToCoutryResponse()).ToList();
         }
     }
 }
