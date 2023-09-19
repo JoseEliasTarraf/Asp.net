@@ -6,7 +6,7 @@ namespace ServiceContracts
     public interface IPersonsService
     {
         PersonResponse AddPerson(PersonAddRequest request);
-
         List<PersonResponse> GetPersonsList();
+        PersonResponse? GetPersonByID(Guid? personID);
     }
 }
