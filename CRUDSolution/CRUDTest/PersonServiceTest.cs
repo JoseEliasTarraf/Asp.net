@@ -5,6 +5,7 @@ using Services;
 using System;
 using System.Collections.Generic;
 using Xunit;
+using Xunit.Abstractions;
 
 namespace CRUDTest
 {
@@ -12,12 +13,14 @@ namespace CRUDTest
     {
         private readonly IPersonsService _personsService;
         private readonly ICountriesService _countriesService;
+        private readonly ITestOutputHelper _outputHelper;
         
 
-        public PersonServiceTest()
+        public PersonServiceTest(ITestOutputHelper testOutuputHelper)
         {
             _personsService = new PersonService();
-            
+            _countriesService = new CountriesService();
+            _outputHelper = testOutuputHelper;
         }
 
         #region AddPerson
@@ -52,12 +55,19 @@ namespace CRUDTest
         [Fact]
         public void AddPerson_ProperPerson()
         {
+            CountryAddResquest country_add = new CountryAddResquest()
+            {
+                CountryName = "China"
+            };
+
+            CountryResponse countryResponse = _countriesService.AddCountry(country_add);
+
             PersonAddRequest request = new PersonAddRequest()
             {
                 PersonName ="José",
                 Email = "neto_jtarraf@hotmail.com",
                 Address = "My Address",
-                CountryID = Guid.NewGuid(),
+                CountryID = countryResponse.CountryId,
                 DateOfBirth = DateTime.Now,
                 Gender = ServiceContracts.Enums.GenderOptions.Male,
                 ReceiveNewsLetters = true,
@@ -91,10 +101,12 @@ namespace CRUDTest
                 CountryName = "China"
             };
 
+            CountryResponse countryResponse = _countriesService.AddCountry(country_add);
+
             PersonAddRequest personAddRequest = new PersonAddRequest()
             {
                 Address = "Minha Casa",
-                CountryID = Guid.NewGuid(),
+                CountryID = countryResponse.CountryId,
                 DateOfBirth = DateTime.Now,
                 Email = "neto_jtarraf@hotmail.com",
                 Gender = ServiceContracts.Enums.GenderOptions.Male,
